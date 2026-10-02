@@ -1,0 +1,20 @@
+{
+  "id": 738,
+  "title": "Fleet Fuel Monitor Cabin Climate Control",
+  "repository_slug": "fleet-fuel-monitor-cabin-climate-control",
+  "category": "Smart Vehicles",
+  "platform": "STM32",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "LTE",
+  "components": [
+    "GPS module",
+    "vibration sensor"
+  ],
+  "scope": "Build a smart vehicles prototype that uses GPS module, vibration sensor to manage ventilation from cabin measurements. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Cabin Climate Control demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "firmware/fleet-fuel-monitor-cabin-climate-control/fleet-fuel-monitor-cabin-climate-control.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
